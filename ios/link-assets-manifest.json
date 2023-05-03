@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cera Pro Black Italic.otf",
+      "sha1": "ec031b6d10630f01c3adc7cc2733038b35a3f627"
+    },
+    {
+      "path": "assets/fonts/Cera Pro Black.otf",
+      "sha1": "37dd0e816b3828a6e996cb1b185b18e10745fb3b"
+    },
+    {
+      "path": "assets/fonts/Cera Pro Bold.otf",
+      "sha1": "baa64ee6efc7331cbe288054213ae1eb3d4836a1"
+    },
+    {
+      "path": "assets/fonts/Cera Pro Light.otf",
+      "sha1": "6de584a008b9858f356612935204940c53f5c226"
+    },
+    {
+      "path": "assets/fonts/Cera Pro Medium.otf",
+      "sha1": "568338d32254cc1f42c41fd4b0b8b16217ee6525"
+    },
+    {
+      "path": "assets/fonts/Cera Pro Regular Italic.otf",
+      "sha1": "7cac59e2d4f1e65e1929d34379b801fd17d87a12"
+    }
+  ]
+}
